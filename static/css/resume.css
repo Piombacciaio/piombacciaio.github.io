@@ -71,6 +71,10 @@ p.lead {
   margin-right: 0;
 }
 
+.social-icons i {
+  margin-top: 1rem;
+}
+
 .social-icons a:hover {
   background-color: #3859bd;
 }
