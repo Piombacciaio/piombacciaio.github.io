@@ -11,6 +11,10 @@ body {
   background: #000;
 }
 
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
